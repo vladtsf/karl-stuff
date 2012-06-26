@@ -1,0 +1,128 @@
+[
+	{
+		"title": "Küche & Kühlraum",
+		"id": "kueche-kuehlraum",
+		"sub": [
+			{
+				"title": "Kochen",
+				"id": "kochen",
+				"sub": [
+					{
+						"title": "Pfannen",
+						"id": "pfannen"
+					},
+					{
+						"title": "Töpfe",
+						"id": "toepfe"
+					},
+					{
+						"title": "Küchenmesser",
+						"id": "kuechenmesser"
+					}
+				]
+			},
+			{
+				"title": "Küchenbedarf",
+				"id": "kuechenbedarf",
+				"sub": [
+					{
+						"title": "Geschirrsets",
+						"id": "geschirrsets"
+					},
+					{
+						"title": "Kaffeegeschirr",
+						"id": "kaffeegeschirr"
+					},
+					{
+						"title": "Kannen",
+						"id": "kannen"
+					}
+				]
+			},
+			{
+				"title": "Küchengeräte",
+				"id": "kuechengeraete",
+				"sub": [
+					{
+						"title": "Mixer",
+						"id": "mixer"
+					},
+					{
+						"title": "Currywurstschne\"id\"er",
+						"id": "currywurstschne\"id\"er"
+					},
+					{
+						"title": "Nudelmaschinen",
+						"id": "nudelmaschinen"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Bad & WC",
+		"id": "bad-wc",
+		"sub": [
+			{
+				"title": "Bademäntel",
+				"id": "bademaentel",
+				"sub": [
+					{
+						"title": "Unisex",
+						"id": "unisex"
+					},
+					{
+						"title": "Badeslipper",
+						"id": "badeslipper"
+					}
+				]
+			},
+			{
+				"title": "Frottee",
+				"id": "frottee"
+			},
+			{
+				"title": "Hotelkosmetik",
+				"id": "hotelkosmetik",
+				"sub": [
+					{
+						"title": "Kaffeemaschinen",
+						"id": "kaffeemaschinen"
+					},
+					{
+						"title": "Espressomaschinen",
+						"id": "espressomaschinen"
+					},
+					{
+						"title": "Heißgetränkeautomaten",
+						"id": "heissgetraenkeautomaten"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Essen & Trinken",
+		"id": "essen-trinken",
+		"sub": [
+			{
+				"title": "Getränke",
+				"id": "getraenke",
+				"sub": [
+					{
+						"title": "Wasser",
+						"id": "wasser"
+					},
+					{
+						"title": "wein",
+						"id": "wein"
+					},
+					{
+						"title": "Whisky",
+						"id": "whisky"
+					}
+				]
+			}
+		]
+	}
+]
